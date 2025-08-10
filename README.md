@@ -42,8 +42,8 @@ AI-Powered-Blog-App/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Shreeya-2006/AI-Powered-Blog-App.git
-   cd AI-Powered-Blog-App
+   git clone https://github.com/Shivam847/AI-powered-blog-application.git
+   cd AI-powered-blog-application
    ```
 
 2. **Set up the backend**
