@@ -1,4 +1,4 @@
-![AI Powered Blog App Banner](https://github.com/Shreeya-2006/AI-Powered-Blog-App/blob/main/AI_Powered_Blog_App.png)
+
 
 # AI-Powered Blog App
 
