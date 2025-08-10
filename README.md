@@ -66,12 +66,6 @@ AI-Powered-Blog-App/
 
 ---
 
-## Live Demo
-
-> 🔗 [Visit the Deployed App](https://ai-powered-blog-app-mu.vercel.app)
-
----
-
 ## Environment Variables
 
 Make sure to add the following in your `.env` files:
@@ -98,8 +92,3 @@ IMAGEKIT_URL_ENDPOINT=https://ik.imagekit.io/your_imagekit_id
 - [Vercel](https://vercel.com/)
 
 ---
-
-## Author
-
-**Shreeya**  
-🔗 GitHub: [@Shreeya-2006](https://github.com/Shreeya-2006)
