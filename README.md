@@ -66,6 +66,13 @@ AI-Powered-Blog-App/
 
 ---
 
+## Live Demo
+
+> 🔗 [Visit the Deployed App](https://ai-powered-blog-application.vercel.app)
+
+---
+
+
 ## Environment Variables
 
 Make sure to add the following in your `.env` files:
